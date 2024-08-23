@@ -1,0 +1,178 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    flex: 1;
+}
+
+header {
+    background-color: #e67225;
+    color: white;
+    padding: 1rem 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero-main {
+    background: url('https://5.imimg.com/data5/ZP/OH/JT/SELLER-77243858/cafe-design-by-zeroinchinteriorsltd.jpg') no-repeat center center;
+    background-size: cover;
+    color: rgb(138, 96, 72);
+    text-align: center;
+    padding: 6rem 0;
+    min-height: 400px;
+}
+
+.hero-main h2 {
+    margin: 0;
+    font-size: 3rem;
+    margin-top: 7rem;
+    color: #e67225;
+}
+
+.hero-main p {
+    font-size: 3rem;
+    color: #e67225;
+}
+
+.newsletter-signup {
+    background: #fff;
+    color: #333;
+    text-align: center;
+    padding: 2rem 0;
+    border-top: 2px solid #d2691e;
+}
+
+.newsletter-signup h2 {
+    margin: 0 0 1rem;
+    font-size: 2rem;
+}
+
+.newsletter-signup form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.newsletter-signup input[type="email"] {
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    width: 100%;
+    max-width: 400px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.newsletter-signup button {
+    padding: 0.75rem 1.5rem;
+    background-color: #e67225;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.newsletter-signup button:hover {
+    background-color: #d2691e;
+}
+
+.products {
+    background: #f9f9f9;
+    padding: 3rem 0;
+    text-align: center;
+}
+
+.products h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.product-item {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 1rem;
+    width: 300px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.product-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.product-item h3 {
+    margin: 0.5rem 0;
+    font-size: 1.5rem;
+}
+
+.product-item p {
+    color: #555;
+}
+
+footer {
+    background-color: #e67225;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    position: relative;
+    width: 100%;
+}
+
+.social-media {
+    margin-top: 1rem;
+}
+
+.social-media a {
+    color: white;
+    margin: 0 0.5rem;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+.social-media a:hover {
+    color: #ddd;
+}
