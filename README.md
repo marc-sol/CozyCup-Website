@@ -1,1 +1,1 @@
-# CozyCup-Website
+Website Activity for Application Development and Emerging Technologies
