@@ -1,4 +1,4 @@
-# CozyCup: A Warm Escape
+# CozyCup:
 
 Welcome to **CozyCup**, your favorite destination for a relaxing and warm experience. Whether you're looking for the perfect cup of coffee, tea, or a delicious snack, we’ve got just what you need to make your day a little brighter.
 
