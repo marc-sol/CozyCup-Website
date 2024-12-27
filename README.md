@@ -38,20 +38,6 @@ We source our ingredients locally, ensuring each cup is brewed to perfection, an
 
 ---
 
-## Our Locations
-
-### **Downtown**
-Address: 123 Main Street, Downtown City
-
-Our flagship location in the heart of Downtown City offers a cozy ambiance with plenty of seating, free Wi-Fi, and a selection of books for you to enjoy while sipping your drink.
-
-### **Uptown**
-Address: 456 Uptown Ave, Uptown City
-
-Our Uptown location is perfect for those on the go, with quick service and a smaller, more intimate setting.
-
----
-
 ## Contact Us
 
 - **Email**: contact@cozycup.com
