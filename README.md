@@ -42,17 +42,9 @@ We source our ingredients locally, ensuring each cup is brewed to perfection, an
 
 ---
 
-## Join Our Team
-
-We are always looking for friendly, passionate individuals to join our team. If you’re interested in working at **CozyCup**, please send your resume to **careers@cozycup.com**.
-
----
-
-
 ## Visit Us Today!
 
 Come for the coffee, stay for the cozy vibes. At **CozyCup**, you’ll always feel at home.
 
 ---
 
-© 2024 CozyCup. All rights reserved.
