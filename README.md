@@ -22,13 +22,6 @@ We source our ingredients locally, ensuring each cup is brewed to perfection, an
 - **Latte** 
 - **Mocha** 
 
-### **Teas**
-
-- **Chamomile**
-- **Green Tea**
-- **Black Tea**
-- **Chai Latte**
-
 ### **Pastries & Snacks**
 
 - **Croissants** 
